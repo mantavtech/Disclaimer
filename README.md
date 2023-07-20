@@ -24,5 +24,5 @@ By using this server, you acknowledge and accept these disclaimers. Failure to c
 
 Remember, this server is intended to be a safe and enjoyable space for all members. Let's work together to create a positive and welcoming community. Thank you for your understanding and cooperation.
 
-[Server Administrator]
-Date: [Date]
+techster
+Date: 20 July , 2023.
